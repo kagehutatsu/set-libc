@@ -25,3 +25,6 @@ If you can understand my programme, change it as you like.
 Using it to help you learn about pwn matters most.
 
 libc file is come from glibc-all-in-one and libc-base,thanks for them.
+
+It's just an attempt now.(Maybe full of bugs)
+The code is ugly and its function is still waiting for the complete.
