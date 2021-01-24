@@ -1,6 +1,6 @@
 It's might be useful for someone who has been almost driven mad by different glibc in pwn.
 
-I can deeply understand that it's really complex to set your programme's glibc same with then problem makers.
+I can deeply understand that it's really complex to set your programme's glibc same with the problem makers.
 This tool is baseed on patchelf (an excellent tools for glibc change).
 You have to download and install it first.
 
